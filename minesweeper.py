@@ -311,3 +311,6 @@ class MinesweeperAI():
         move = random.choice(tuple(all_moves))
         print(move)
         return move
+
+# Reference : https://cs50.harvard.edu/extension/ai/2020/spring/projects/1/minesweeper/#:~:text=Propositional%20Logic&text=One%20way%20we%20could%20represent,a%20mine%2C%20and%20false%20otherwise.&text=Well%2C%20the%20AI%20would%20know,the%20number%20for%20that%20cell.
+    
