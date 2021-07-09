@@ -12,7 +12,7 @@ Since minimax algorithm explores all paths an upper bound to number of moves ot 
 Minesweeper is a puzzle game that consists of a grid of cells, where some of the cells contain hidden “mines.” Clicking on a cell that contains a mine detonates the mine, and causes the user to lose the game. Clicking on a “safe” cell (i.e., a cell that does not contain a mine) reveals a number that indicates how many neighboring cells – where a neighbor is a cell that is one square to the left, right, up, down, or diagonal from the given cell – contain a mine.
 \
 The goal of the game is to flag (i.e., identify) each of the mines. The AI agent here plays the Minesweeper making the best move based on the available knowledge base. The game may not always end in victory as at some point agent don’t have enough information to make a safe move.
-# Propositional Logic
+# Knowledge Representation
 The AI's knowledge is represented as the following logical sentence:
 
 {A, B, C, D, E, F, G, H} = 1
