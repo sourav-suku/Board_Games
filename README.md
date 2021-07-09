@@ -1,5 +1,5 @@
 # Board_Games
-Programming AI agents to play `Tic Tac Toe` using Minimax Algorithm and  `Minesweeper Game` using propositional logic.
+Programming AI agents to play `Tic Tac Toe` using Minimax Algorithm and  `Minesweeper Game` based on its available knowledge base.
 # Tic Tac Toe
 Tic Tac Toe is a two player game played on a 3x3 gameboard where each player tries to place cross('x') or nought('o') along a row,coloumn or a diagonal.Here an AI agent is programmed such that given any initial board state it returns the best move the player can make.
 # Minimax Algorithm
